@@ -46,6 +46,7 @@ draft: false
 
 #### User Tools
 * https://nadejde.github.io/eos-token-sale/ - Key Gen
+* [Offline Private Key Generator and Validator](https://github.com/eoscafe/eos-key) - Can generate and validate key pairs offline on MacOS/Windows/Linux, available in English/Korean/Chinese. No internet required.
 
 #### Testnet
 * https://github.com/CryptoLions/EOS-Jungle-Testnet
